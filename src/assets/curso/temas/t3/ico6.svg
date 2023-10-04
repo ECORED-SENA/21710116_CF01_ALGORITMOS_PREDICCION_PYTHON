@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60.06" height="60.06" viewBox="0 0 60.06 60.06">
+  <g id="regresion" transform="translate(0.616 0.6)">
+    <path id="Trazado_821215" data-name="Trazado 821215" d="M65.776,60.717l-6.059-3.5a1.138,1.138,0,0,0-1.707.986v1.67H13.968V15.833h1.67a1.138,1.138,0,0,0,.986-1.707l-3.5-6.059a1.138,1.138,0,0,0-1.971,0l-3.5,6.059a1.138,1.138,0,0,0,.986,1.707h1.67V61.7a1.828,1.828,0,0,0,1.828,1.828H58.01V65.2a1.138,1.138,0,0,0,1.707.986l6.059-3.5A1.138,1.138,0,0,0,65.776,60.717Z" transform="translate(-7.501 -7.498)" fill="#8d9ca8"/>
+    <path id="Trazado_821216" data-name="Trazado 821216" d="M8.3,54.028l-.646,1.119a1.138,1.138,0,0,0,.986,1.707h1.669v45.871a1.829,1.829,0,0,0,1.828,1.828H40.45" transform="translate(-7.5 -48.519)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    <path id="Trazado_821217" data-name="Trazado 821217" d="M30.771,9.624l.9-1.555a1.138,1.138,0,0,1,1.971,0l3.5,6.058a1.138,1.138,0,0,1-.985,1.707H34.483V59.877H78.524V58.206a1.138,1.138,0,0,1,1.707-.985l6.058,3.5a1.138,1.138,0,0,1,0,1.971l-6.058,3.5a1.138,1.138,0,0,1-1.707-.986V63.534H65.053" transform="translate(-28.016 -7.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    <path id="Trazado_821218" data-name="Trazado 821218" d="M133.894,54.36l-7.85,2.1a.721.721,0,0,0-.323,1.206l1.618,1.618L91.963,94.663a1.776,1.776,0,1,0,2.511,2.512L129.85,61.8l1.618,1.618a.721.721,0,0,0,1.206-.323l2.1-7.851A.721.721,0,0,0,133.894,54.36Z" transform="translate(-81.504 -48.79)" fill="#ffe323"/>
+    <path id="Trazado_821219" data-name="Trazado 821219" d="M124.075,67.575,129.85,61.8l1.618,1.618a.721.721,0,0,0,1.206-.323l2.1-7.851a.721.721,0,0,0-.883-.883l-7.851,2.1a.722.722,0,0,0-.323,1.206l1.618,1.618L91.963,94.663a1.777,1.777,0,0,0,2.512,2.512L121.152,70.5" transform="translate(-81.505 -48.79)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    <g id="Grupo_1072511" data-name="Grupo 1072511" transform="translate(34.854 29.831)">
+      <ellipse id="Elipse_10364" data-name="Elipse 10364" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0)" fill="#fe646f"/>
+      <ellipse id="Elipse_10365" data-name="Elipse 10365" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    </g>
+    <g id="Grupo_1072512" data-name="Grupo 1072512" transform="translate(20.531 24.545)">
+      <ellipse id="Elipse_10366" data-name="Elipse 10366" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0 0)" fill="#fe646f"/>
+      <ellipse id="Elipse_10367" data-name="Elipse 10367" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    </g>
+    <g id="Grupo_1072513" data-name="Grupo 1072513" transform="translate(27.216 18.13)">
+      <ellipse id="Elipse_10368" data-name="Elipse 10368" cx="2.206" cy="2.206" rx="2.206" ry="2.206" fill="#fe646f"/>
+      <ellipse id="Elipse_10369" data-name="Elipse 10369" cx="2.206" cy="2.206" rx="2.206" ry="2.206" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    </g>
+    <g id="Grupo_1072514" data-name="Grupo 1072514" transform="translate(25.995 9.305)">
+      <ellipse id="Elipse_10370" data-name="Elipse 10370" cx="2.206" cy="2.206" rx="2.206" ry="2.206" fill="#fe646f"/>
+      <ellipse id="Elipse_10371" data-name="Elipse 10371" cx="2.206" cy="2.206" rx="2.206" ry="2.206" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    </g>
+    <g id="Grupo_1072515" data-name="Grupo 1072515" transform="translate(13.676 26.555)">
+      <ellipse id="Elipse_10372" data-name="Elipse 10372" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0)" fill="#fe646f"/>
+      <ellipse id="Elipse_10373" data-name="Elipse 10373" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    </g>
+    <g id="Grupo_1072516" data-name="Grupo 1072516" transform="translate(17.54 18.13)">
+      <ellipse id="Elipse_10374" data-name="Elipse 10374" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0)" fill="#fe646f"/>
+      <ellipse id="Elipse_10375" data-name="Elipse 10375" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    </g>
+    <g id="Grupo_1072517" data-name="Grupo 1072517" transform="translate(34.854 8.369)">
+      <ellipse id="Elipse_10376" data-name="Elipse 10376" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0 0)" fill="#fe646f"/>
+      <ellipse id="Elipse_10377" data-name="Elipse 10377" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    </g>
+    <g id="Grupo_1072518" data-name="Grupo 1072518" transform="translate(41.674 25.019)">
+      <ellipse id="Elipse_10378" data-name="Elipse 10378" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0)" fill="#fe646f"/>
+      <ellipse id="Elipse_10379" data-name="Elipse 10379" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    </g>
+    <g id="Grupo_1072519" data-name="Grupo 1072519" transform="translate(46.688 18.13)">
+      <ellipse id="Elipse_10380" data-name="Elipse 10380" cx="2.206" cy="2.206" rx="2.206" ry="2.206" fill="#fe646f"/>
+      <ellipse id="Elipse_10381" data-name="Elipse 10381" cx="2.206" cy="2.206" rx="2.206" ry="2.206" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    </g>
+    <g id="Grupo_1072520" data-name="Grupo 1072520" transform="translate(41.674 33.241)">
+      <ellipse id="Elipse_10382" data-name="Elipse 10382" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0)" fill="#fe646f"/>
+      <ellipse id="Elipse_10383" data-name="Elipse 10383" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    </g>
+    <g id="Grupo_1072521" data-name="Grupo 1072521" transform="translate(31.628 37.252)">
+      <ellipse id="Elipse_10384" data-name="Elipse 10384" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0 0)" fill="#fe646f"/>
+      <ellipse id="Elipse_10385" data-name="Elipse 10385" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    </g>
+    <g id="Grupo_1072522" data-name="Grupo 1072522" transform="translate(24.424 39.459)">
+      <ellipse id="Elipse_10386" data-name="Elipse 10386" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0 0)" fill="#fe646f"/>
+      <ellipse id="Elipse_10387" data-name="Elipse 10387" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    </g>
+    <g id="Grupo_1072523" data-name="Grupo 1072523" transform="translate(9.263 35.447)">
+      <ellipse id="Elipse_10388" data-name="Elipse 10388" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0 0)" fill="#fe646f"/>
+      <ellipse id="Elipse_10389" data-name="Elipse 10389" cx="2.206" cy="2.206" rx="2.206" ry="2.206" transform="translate(0 0)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    </g>
+  </g>
+</svg>
