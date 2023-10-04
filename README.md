@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/21710116_CF01_ALGORITMOS_PREDICCION_PYTHON/](https://ecored-sena.github.io/21710116_CF01_ALGORITMOS_PREDICCION_PYTHON/)
 
 #
 
