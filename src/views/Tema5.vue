@@ -50,9 +50,11 @@
       .col-lg-4.col-10.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/temas/t5/img3.svg", alt="")
 
-    .titulo-sexto.color-acento-contenido.mb-2
-      p.mb-0 #[b Tabla 1.] Representación matriz de confusión
-    .tabla-a.color-secundario.mb-5 
+    .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade")
+      p.mb-0 #[b Figura 9.] Representación matriz de confusión
+    figure.mb-5(data-aos="fade-down")
+      img(src="@/assets/curso/temas/t5/fig9.svg", alt="Imagen que muestra, en forma de tabla, la representación de una matriz de confusión.")
+    //.tabla-a.color-secundario.mb-5 
       table
         thead
           tr.bg-secundario.text-white

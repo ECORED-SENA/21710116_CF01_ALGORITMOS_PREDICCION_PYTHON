@@ -57,13 +57,13 @@
                   p Se refieren a la información organizada. Estos datos se pueden procesar, almacenar y recuperar con un formato establecido desde una base de datos. Entre ellos se encuentran detalles de empleados como salario, cargo, edad, entre otros; detalles de clientes como edad, sexo, capacidad de compra, entre otros; datos de pacientes como edad, sexo, diagnóstico, entre otros; tipos de flores como longitud y ancho del pétalo, longitud y ancho del sépalo.
               .row.align-items-center.justify-content-around
                 .col-md-4.mb-4.mb-md-0
-                  img(src='@/assets/curso/temas/t1/slide1.png', alt='')
+                  img(src='@/assets/curso/temas/t1/slide2.png', alt='')
                 .col-md-7
                   h4.tc-1 Datos no estructurados
                   p Estos datos carecen de cualquier forma o estructura específica, son complejos de procesar y analizar. Por ejemplo, los videos y el audio o los correos electrónicos, documentos en PDF o Word, etc.
               .row.align-items-center.justify-content-around
                 .col-md-4.mb-4.mb-md-0
-                  img(src='@/assets/curso/temas/t1/slide1.png', alt='')
+                  img(src='@/assets/curso/temas/t1/slide3.png', alt='')
                 .col-md-7
                   h4.tc-1 Datos semiestructurados
                   p Contienen los dos tipos de datos anteriores tanto estructurados como no estructurados, estos datos se pueden almacenar en alguna base de datos; pero pueden tener etiquetas que hacen referencia a otros datos de la información como HTML, XML o JSON.

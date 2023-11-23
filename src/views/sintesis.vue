@@ -16,7 +16,7 @@
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="Esquema de los contenidos desarrollados en este componente formativo. Tema principal: la introducción a la analítica predictiva. Temas integradores: conjuntos de datos, procesamiento de datos, algoritmos de aprendizaje supervisado y no supervisado, métricas de evaluación.")
       .col-auto
-        a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
+        a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
