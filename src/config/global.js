@@ -278,22 +278,6 @@ export default {
             'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
-          nombre: 'Jeimy Lorena Romero Perilla',
-          cargo: 'Diseñadora instruccional',
-          centro:
-            'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
-        },
-        {
-          nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Asesor metodológico',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Julia Isabel Robert',
-          cargo: 'Correctora de estilo',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
-        },
-        {
           nombre: 'Fabián Leonardo Correa Díaz',
           cargo: 'Diseñador instruccional',
           centro:
