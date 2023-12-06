@@ -17,7 +17,7 @@
             .col-md-2.mb-3.mb-lg-0
               img.px-lg-4(src="@/assets/curso/temas/t4/ico.svg", alt="")
             .col-md-10
-              p.mb-0 Los algoritmos de este tipo de aprendizaje forman #[em clústeres] de manera autónoma y asignar observaciones a estos #[em clústeres]. 
+              p.mb-0 Los algoritmos de este tipo de aprendizaje forman clústeres de manera autónoma y asignar observaciones a estos clústeres. 
         h5 Estos son los pasos básicos de una máquina de aprendizaje no supervisado:
 
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade")
@@ -41,8 +41,8 @@
         h4 Agrupamiento
         .row
           .col-md-9
-            p Se trata de identificar un patrón en datos no categorizados y agrupados en #[em clústeres] o grupos. Se supone que los datos tienen similitudes identificadas por métricas de distancia, tales como la distancia euclídea.  
-            p Así, dos registros que tengan una distancia mínima, en comparación con otras distancias, podrían pertenecer al mismo #[em clúster].
+            p Se trata de identificar un patrón en datos no categorizados y agrupados en clústeres o grupos. Se supone que los datos tienen similitudes identificadas por métricas de distancia, tales como la distancia euclídea.  
+            p Así, dos registros que tengan una distancia mínima, en comparación con otras distancias, podrían pertenecer al mismo clúster.
           .col-md-3
             img(src="@/assets/curso/temas/t4/tab-img2.svg", alt="")
 
@@ -102,11 +102,11 @@
         .bg-5.p-4
           .row.align-items-center 
             .col-md-8
-              p Una vez que el algoritmo elige una cantidad de centroides para marcar el centro de cada #[em clúster], se actualizan los centroides cambiando su posición al centro de las observaciones asignadas y, nuevamente, cada punto se ubica con su centroide más cercano y así sucesivamente hasta que las asignaciones de #[em clústeres] no cambien o se alcance un número de iteraciones determinado
+              p Una vez que el algoritmo elige una cantidad de centroides para marcar el centro de cada clúster, se actualizan los centroides cambiando su posición al centro de las observaciones asignadas y, nuevamente, cada punto se ubica con su centroide más cercano y así sucesivamente hasta que las asignaciones de clústeres no cambien o se alcance un número de iteraciones determinado
             .col-md-4
               img(src="@/assets/curso/temas/t4/img2.svg", alt="")
 
-    p.mb-5(data-aos="fade") Una vez que el algoritmo elige una cantidad de centroides para marcar el centro de cada #[em clúster], se actualizan los centroides cambiando su posición al centro de las observaciones asignadas y, nuevamente, cada punto se ubica con su centroide más cercano y así sucesivamente hasta que las asignaciones de #[em clústeres] no cambien o se alcance un número de iteraciones determinado.
+    p.mb-5(data-aos="fade") Una vez que el algoritmo elige una cantidad de centroides para marcar el centro de cada clúster, se actualizan los centroides cambiando su posición al centro de las observaciones asignadas y, nuevamente, cada punto se ubica con su centroide más cercano y así sucesivamente hasta que las asignaciones de clústeres no cambien o se alcance un número de iteraciones determinado.
 
     .bg-8.br-5.w-fit.px-3.py-2.mb-4(data-aos="fade")
       h4.mb-0 Ventajas de #[em K-means]
@@ -125,7 +125,7 @@
       .col-lg-3.col-md-6.mb-3
         .tarjeta.t-hover.text-center.h-100.p-4 
           img.m-auto.mb-3(src="@/assets/curso/temas/t4/tarj2-ico3.svg", alt="" style="max-width: 120px;")
-          p.mb-0 Produce #[em clústeres] más definidos que el #[em clustering] jerárquico.
+          p.mb-0 Produce clústeres más definidos que el #[em clustering] jerárquico.
       .col-lg-3.col-md-6.mb-3
         .tarjeta.t-hover.text-center.h-100.p-4 
           img.m-auto.mb-3(src="@/assets/curso/temas/t4/tarj2-ico4.svg", alt="" style="max-width: 120px;")
