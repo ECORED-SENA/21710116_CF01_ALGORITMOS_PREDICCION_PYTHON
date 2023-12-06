@@ -225,8 +225,6 @@ export default {
     {
       referencia:
         'González, L. (2019). <em>Preguntas frecuentes. Regresión lineal y regresión logística</em>. Aprende IA.',
-      link:
-        'https://aprendeia.com/diferencia-entre-regresion-lineal-y-regresion-logistica-machine-learning/',
     },
     {
       referencia:
@@ -273,13 +271,13 @@ export default {
       autores: [
         {
           nombre: 'Héctor Henry Jurado Soto',
-          cargo: 'Experto temático',
+          cargo: 'Experto Temático',
           centro:
             'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
           nombre: 'Fabián Leonardo Correa Díaz',
-          cargo: 'Diseñador instruccional',
+          cargo: 'Diseñador Instruccional',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
@@ -296,7 +294,7 @@ export default {
         },
         {
           nombre: 'Wilson Andrés Arenales Cáceres',
-          cargo: 'Storyboard e ilustración',
+          cargo: 'Storyboard e Ilustración',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
@@ -320,7 +318,7 @@ export default {
         },
         {
           nombre: 'Emilsen Alfonso Bautista',
-          cargo: 'Actividad didáctica',
+          cargo: 'Actividad Didáctica',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },

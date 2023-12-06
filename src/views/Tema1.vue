@@ -45,7 +45,7 @@
                   img(src='@/assets//curso/temas/t1/ico.svg', alt='')
               p Esto porque son demasiado grandes y difíciles de procesar con las bases de datos y el #[em software] tradicional. 
 
-          h5.mb-4(data-aos="fade") Para reconocer cada uno de dichos conjuntos de datos revise con atención la siguiente información: 
+          p.mb-4(data-aos="fade") Para reconocer cada uno de dichos conjuntos de datos, revise con atención la siguiente información: 
 
           .tarjeta.bg-white.bx-sh1.p-4.py-md-5
             SlyderE(indicadores="derecha" data-aos="fade-down")
@@ -103,7 +103,7 @@
               p(numero="4" titulo="Variable") Es cualquier característica de una unidad de análisis de una población, por ejemplo, los clientes pueden ser clasificados en hombres o mujeres, esta variable se llama sexo.
               p(numero="5" titulo="Dato") Es el valor que toma una variable de una unidad de análisis.
 
-    p.mb-4(data-aos="fade") Además, es importante puntualizar en los tipos de variables que se pueden medir para realizar cualquier estudio de información; entre ellas se encuentran la variables 
+    p.mb-4(data-aos="fade") Además, es importante puntualizar en los tipos de variables que se pueden medir para realizar cualquier estudio de información; entre ellas se encuentran las variables 
       span.fw-bold.bg-4.p-1 categóricas o cualitativas
       |  y las variables
       span.fw-bold.bg-4.p-1 numéricas o cuantitativas:

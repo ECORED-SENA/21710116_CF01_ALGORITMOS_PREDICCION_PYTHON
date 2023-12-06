@@ -21,7 +21,7 @@
                   .col-md-2.mb-3.mb-lg-0
                     img.px-md-2(src="@/assets/curso/temas/t2/ico.svg", alt="")
                   .col-md-10
-                    p.mb-0 Si una de las características no es informativa es conveniente eliminarla; por ejemplo, de acuerdo con determinada investigación realizada, puede ser más significativa la edad de una persona que el número de su casa. 
+                    p.mb-0 Si una de las características no es informativa, es conveniente eliminarla; por ejemplo, de acuerdo con determinada investigación realizada, puede ser más significativa la edad de una persona que el número de su casa. 
 
           h5.mb-4(data-aos="fade") Existen varias formas para preprocesar la información; entre las más destacadas están:
 
@@ -30,7 +30,7 @@
               AcordionA(tipo="a" clase-tarjeta="tarjeta bg-3")
                 .row.justify-content-end(titulo="Binarización de características")
                   .col-11
-                    p El principal objetivo de esta transformación es mejorar una observación o entidad, eliminando, cambiando o añadiendo información, una transformación sencilla puede ser transformar un tipo de data set en otro, por ejemplo, transformar un atributo de tipo entero a flotante. Una transformación muy común es la binarización que no es más que transformar un atributo de tipo categórico a un atributo booleano.
+                    p El principal objetivo de esta transformación es mejorar una observación o entidad, eliminando, cambiando o añadiendo información, una transformación sencilla puede ser transformar un tipo de #[em data set] en otro, por ejemplo, transformar un atributo de tipo entero a flotante. Una transformación muy común es la binarización que no es más que transformar un atributo de tipo categórico a un atributo booleano.
                 .row.justify-content-end(titulo="Discretización")
                   .col-11
                     p Consiste en convertir un valor numérico continuo en intervalos, esto es debido a que algunos algoritmos de clasificación solo aceptan atributos categóricos, esto reduce el tamaño de los datos para su mejor entendimiento.
@@ -46,7 +46,7 @@
                   .col-11
                     p.mb-1 #[b Escalado simple:] se divide cada valor de una característica por el valor máximo de esa característica. Los valores, por tanto, están entre 0 y 1.
                     p.mb-1 #[b Escalado min-max:] a cada valor de una característica se le resta el valor mínimo de todos los datos de la característica y se divide la diferencia entre el valor mínimo y el máximo, los valores estarán entre 0 y 1.
-                    p #[b Z-Score o puntuación estándar:] a cada valor de una característica se le resta la media de la característica y este resultado se divide por la desviación estándar, los resultados tomarán valores negativos y positivos.
+                    p #[b #[em Z-Score] o puntuación estándar:] a cada valor de una característica se le resta la media de la característica y este resultado se divide por la desviación estándar, los resultados tomarán valores negativos y positivos.
                 .row.justify-content-end(titulo="Imputación de valores faltantes")
                   .col-11
                     p Es la técnica de rellenar los valores que hacen falta de una variable o característica, se pueden usar medias, medianas, modas para completar los datos. Otra forma es encontrar esos valores usando modelos predictivos, una solución a los valores faltantes puede ser borrar la variable, aunque esto es una medida drástica, otra forma menos drástica puede ser borrar el registro que contiene el dato perdido, pero se puede eliminar información valiosa.

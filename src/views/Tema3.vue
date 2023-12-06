@@ -20,7 +20,7 @@
 
           .col-md-12.col-10
             .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade")
-              p.mb-0 #[b Figura 1.] Pasos básicos de una máquina de aprendizaje no supervisado
+              p.mb-0 #[b Figura 1.] Pasos básicos de una máquina de aprendizaje supervisado
             figure.mb-4(data-aos="fade-down")
               img.d-md-block.d-none(src="@/assets/curso/temas/t3/fig1-pc.svg", alt="Esquema de diagrama que enuncia los pasos básicos de la máquina de aprendizaje supervisado.")
               img.d-md-none.d-block(src="@/assets/curso/temas/t3/fig1-mob.svg", alt="Esquema de diagrama que enuncia los pasos básicos de la máquina de aprendizaje supervisado.")
@@ -251,7 +251,7 @@
         .br-8.bg-5.p-4.h-100
           img.m-auto.mb-4(src="@/assets/curso/temas/t3/img6.svg", alt="" style="max-width: 90px;")
           .bg-white.p-4
-            p.mb-0 Al principio todas las ponderaciones son aleatorias y los resultados pueden ser ilógicos y erróneos, pero la red va aprendiendo a través del entrenamiento, a medida que se entrena la red con datos conocidos la predicción de la red mejora sustancialmente.
+            p.mb-0 Al principio todas las ponderaciones son aleatorias y los resultados pueden ser ilógicos y erróneos, pero la red va aprendiendo a través del entrenamiento, a medida que se entrena la red con datos conocidos, la predicción de la red mejora sustancialmente.
 
     .row.fondo3-tema3.align-items-center.py-4.pb-5.mb-5
       .col-lg-12.col-12.px-lg-5.px-4
